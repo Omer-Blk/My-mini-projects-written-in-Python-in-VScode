@@ -1,7 +1,3 @@
-<!--Please do not remove this part-->
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
 # QR Code Generator
 ![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen01.png)
 
@@ -27,7 +23,5 @@ Made with `python`
 
 
 ## 🤖 Author
-[Vivek](https://github.com/vivekthedev)
+[My github](https://github.com/Omer-Blk)
 
-Any Questions?
-[Twitter](https://twitter.com/vivekthedev)

@@ -60,5 +60,6 @@ python expense_tracker.py
 <p align="center">
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/expense_tracker.png" width=70% height=70%>
 
+
 ## 🤖 Author
-[Omer-Blk](https://github.com/Omer-Blk)
+[My github](https://github.com/Omer-Blk)
